@@ -21,6 +21,7 @@ Comecei a programar por hobby aos 13 anos, inicialmente criando e administrando 
 ### Projetos em Destaque
 #### 📦 SiliSync
 > **Sistema de gestão de estoque e peças com API RESTful e interface web**
+
 Projeto desenvolvido com foco em problemas encontrados em sistemas tradicionais do setor, como **perda de dados, baixa responsividade em dispositivos móveis e dificuldades de integração.**
 * **Techs:** C#, ASP.NET Core, EF Core, Fluent UI (Blazor), Scalar/OpenAPI, Autenticação JWT.
 * **Destaques:** Salvamento automático de rascunhos para reduzir perda de dados no mobile, suporte a integrações de e-commerce e arquitetura desacoplada.
