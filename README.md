@@ -21,7 +21,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** 🇧🇷, focado na 
 ### Projetos em Destaque
 #### 📦 SiliSync
 > **API RESTful e Sistema de Gestão de Estoque/Peças**
-* **Problema:** Solução criada para resolver falhas graves de perfomance, perda de dados e falta de responsabilidade mobile em sistemas tradicionais do setor.
+* **Problema:** Solução criada para resolver falhas graves de perfomance, perda de dados e falta de responsividade mobile em sistemas tradicionais do setor.
 * **Techs:** C#, ASP.NET Core, EF Core, Fluent UI (Blazor), Scalar/OpenAPI, Autenticação JWT.
 * **Destaques:** Salvamento automático de rascunhos (evita perda de dados no mobile), suporte a integrações de e-commerce e arquitetura desacoplada.
 
