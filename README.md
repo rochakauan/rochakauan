@@ -33,7 +33,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** 🇧🇷, focado na 
 ---
 ### 🧠 No que estou trabalhando atualmente
 * Aprofundando estudos em *Clean Architecture*, *DDD* e *DevOps.*
-* Explorando integração de **Agentes de IA e Semantic Kernel** dentro do ecossistema Microsoft.
+* Explorando integração de **IA (.NET / Semantic Kernel)** para automação e análise de contexto em aplicações C#.
 * Desenvolvendo projetos práticos de portfólio focados em resolver dores operacionais do dia a dia.
 
 ---
